@@ -1,0 +1,6 @@
+name: ArcPunch
+description: Un Plugin D'ArcPunch
+version: 1.0
+author: Liamone3065
+main: Liamone\Main
+api: 5.0.0
